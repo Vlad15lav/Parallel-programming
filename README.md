@@ -13,5 +13,5 @@
 Multiplication of two polynomials using the formula for calculating the k-th coefficient.</br>
 ![](/Polynomials/formula.png)
 ### Binary merge
-Using a pass of array A relative to B and array B relative to A.
+Using a pass of array A relative to B and array B relative to A.</br>
 ![](/Binarymerge/formula.png)
