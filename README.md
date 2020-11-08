@@ -10,5 +10,5 @@
 8. Barbershop Problem.
 
 ### Multiplication of polynomials
-Multiplication of two polynomials using the formula for calculating the k-th coefficient.
+Multiplication of two polynomials using the formula for calculating the k-th coefficient.</br>
 ![](/Polynomials/formula.png)
