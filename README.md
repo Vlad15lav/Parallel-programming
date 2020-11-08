@@ -11,3 +11,4 @@
 
 ### Multiplication of polynomials
 Multiplication of two polynomials using the formula for calculating the k-th coefficient.
+![](/Polynomials/formula.png)
