@@ -14,4 +14,4 @@ Multiplication of two polynomials using the formula for calculating the k-th coe
 ![](/Polynomials/formula.png)
 ### Binary merge
 Using a pass of array A relative to B and array B relative to A.</br>
-![](/Binarymerge/formula.png)
+![](/BinaryMerge/formula.png)
