@@ -26,4 +26,4 @@ Using a pass of array A relative to B and array B relative to A.</br>
 ### Dining Philosophers
 ![](/DiningPhilosophers/Table.png)
 ### Barbershop Problem
-![](/BarbershopProblem/barbershop.png)
+![](/BarbershopProblem/Barbershop.png)
