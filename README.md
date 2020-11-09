@@ -17,3 +17,5 @@ Using a pass of array A relative to B and array B relative to A.</br>
 ![](/BinaryMerge/formula.png)
 ### Doubling
 ![](/Doubling/Cascade.jpg)
+### Block multiplication of a matrix by a vector
+![](/BlockMultiplication/Scheme.png)
