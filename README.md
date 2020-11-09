@@ -19,3 +19,11 @@ Using a pass of array A relative to B and array B relative to A.</br>
 ![](/Doubling/Cascade.jpg)
 ### Block multiplication of a matrix by a vector
 ![](/BlockMultiplication/Scheme.png)
+### Odd even marger sort
+![](/OddEvenMergesort/Mergers.png)
+### Block sorting
+![](/BlockSort/BlockMergers.png)
+### Dining Philosophers
+![](/DiningPhilosophers/Table.png)
+### Barbershop Problem
+![](/BarbershopProblem/barbershop.png)
