@@ -18,12 +18,16 @@ Using a pass of array A relative to B and array B relative to A.</br>
 ### Doubling
 ![](/Doubling/Cascade.jpg)
 ### Block multiplication of a matrix by a vector
+To deal with the race condition when adding up to the final vector, a synchronization mechanism is used. Mutex.</br>
 ![](/BlockMultiplication/Scheme.png)
 ### Odd even marger sort
 ![](/OddEvenMergesort/Mergers.png)
 ### Block sorting
 ![](/BlockSort/BlockMergers.png)
 ### Dining Philosophers
+Mutex - fork. Semaphore - number of chairs.</br>
 ![](/DiningPhilosophers/Table.png)
 ### Barbershop Problem
-![](/BarbershopProblem/Barbershop.png)
+Client-server model.</br>
+![](/BarbershopProblem/Barbershop.png)</br>
+![](/BarbershopProblem/Model.png)
