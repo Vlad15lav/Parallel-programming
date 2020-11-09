@@ -24,10 +24,10 @@ To deal with the race condition when adding up to the final vector, a synchroniz
 ![](/OddEvenMergesort/Mergers.png)
 ### Block sorting
 ![](/BlockSort/BlockMergers.png)
-### Dining Philosophers
+### Dining philosophers
 Mutex - fork. Semaphore - number of chairs.</br>
 ![](/DiningPhilosophers/Table.png)
-### Barbershop Problem
+### Barbershop problem
 Client-server model.</br>
 ![](/BarbershopProblem/Barbershop.png)</br>
 ![](/BarbershopProblem/Model.png)
