@@ -29,5 +29,4 @@ Mutex - fork. Semaphore - number of chairs.</br>
 ![](/DiningPhilosophers/Table.png)
 ### Barbershop problem
 Client-server model. Two tables - two data structures. Interaction with the table - mutex. Waiting for a client or Barber to act - semaphore.</br>
-![](/BarbershopProblem/Barbershop.png)</br>
 ![](/BarbershopProblem/Model.png)
